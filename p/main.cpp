@@ -6,7 +6,7 @@ int main()
 {
     int num;
 
-    cout << "i love you: " << endl;
+    cout << "any thing " << endl;
 
     cin>>num;
 
